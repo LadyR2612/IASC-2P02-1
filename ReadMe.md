@@ -8,4 +8,4 @@ I am a 2nd year student at Brock University, and I am studying Interactive Arts 
 
 ## Blog post
 
-Lorem ipsum dolor sit amet... [continue reading](blog)
+As Kirschenbaum, Alvarado, and Ramsay... [continue reading](blog.md)
